@@ -1,0 +1,12 @@
+C:\Users\ianze\source\repos\pa-csharp-1\Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+C:\Users\ianze\source\repos\pa-csharp-1\Vehicles\bin\Debug\net6.0\Vehicles.dll
+C:\Users\ianze\source\repos\pa-csharp-1\Vehicles\bin\Debug\net6.0\Vehicles.pdb
+C:\Users\ianze\source\repos\pa-csharp-1\Vehicles\obj\Debug\net6.0\Vehicles.csproj.AssemblyReference.cache
+C:\Users\ianze\source\repos\pa-csharp-1\Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianze\source\repos\pa-csharp-1\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\ianze\source\repos\pa-csharp-1\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+C:\Users\ianze\source\repos\pa-csharp-1\Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\ianze\source\repos\pa-csharp-1\Vehicles\obj\Debug\net6.0\Vehicles.dll
+C:\Users\ianze\source\repos\pa-csharp-1\Vehicles\obj\Debug\net6.0\refint\Vehicles.dll
+C:\Users\ianze\source\repos\pa-csharp-1\Vehicles\obj\Debug\net6.0\Vehicles.pdb
+C:\Users\ianze\source\repos\pa-csharp-1\Vehicles\obj\Debug\net6.0\ref\Vehicles.dll

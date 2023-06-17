@@ -276,6 +276,16 @@
             "rid": "win"
           }
         }
+      },
+      "Vehicles/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Vehicles.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vehicles.dll": {}
+        }
       }
     }
   },
@@ -774,12 +784,18 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Vehicles/1.0.0": {
+      "type": "project",
+      "path": "../Vehicles/Vehicles.csproj",
+      "msbuildProject": "../Vehicles/Vehicles.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "System.Configuration.ConfigurationManager >= 7.0.0",
-      "System.Data.SqlClient >= 4.8.5"
+      "System.Data.SqlClient >= 4.8.5",
+      "Vehicles >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -808,7 +824,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ianze\\source\\repos\\pa-csharp-1\\Vehicles\\Vehicles.csproj": {
+              "projectPath": "C:\\Users\\ianze\\source\\repos\\pa-csharp-1\\Vehicles\\Vehicles.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
