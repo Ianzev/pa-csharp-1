@@ -2,7 +2,7 @@
 {
     public class Vehicle
     {
-        public int Id { get; set; }
+        public int Id { get; }
         public string LicensePlate { get; set; }
         public int MaxCapacity { get; set;}
         public string Status { get; set; }
